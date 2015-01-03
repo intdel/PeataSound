@@ -19,7 +19,7 @@ It is running on Linux as well as Windows.
 Requirements
 -------------
 
- - [.NET Framework 4.5 for Windows](http://www.microsoft.com/en-us/download/details.aspx?id=30653) / [Mono for Linux](www.mono-project.com/docs/getting-started/install/linux/)
+ - [.NET Framework 4.5 for Windows](http://www.microsoft.com/en-us/download/details.aspx?id=30653) / [Mono for Linux](http://www.mono-project.com/docs/getting-started/install/linux/)
  - A sound card
  - A screen
  - Some input devices (such as  a mouse and keyboard)
