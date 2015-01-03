@@ -1,0 +1,7 @@
+﻿lines=6
+soundLocation="HugeWAV.wav"
+soundFileName="HugeWAV.wav"
+playEvery=2
+active=false
+volume=100
+duration=5000
