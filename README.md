@@ -24,8 +24,12 @@ Requirements
  - A screen
  - Some input devices (such as  a mouse and keyboard)
 
+----------
+
+ 
 Download
 -------------
-Linux
-Windows Setup
-Windows Portable
+[Download](https://github.com/intdel/PeataSound/blob/master/PeataSound/PeataSoundPortable.zip)
+
+Version: 0.10
+Last Edit: 1/2/2015
