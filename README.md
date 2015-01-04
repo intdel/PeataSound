@@ -16,7 +16,7 @@ This application is currently in **ALPHA** state. Many features are not implemen
 
 Errors may occur.
 
-It is running on Linux as well as Windows.
+It is running on Linux as well as Windows. However, Windows has the only official support.
 
 Requirements
 -------------
