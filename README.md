@@ -28,8 +28,16 @@ Requirements
 
 ----------
 
-Changelog for version 0.1.1
+Changelogs
 -------------
+v0.1.2
+
+ - Fixed background high CPU usage
+ - Fixed exit bug
+
+ 
+
+v0.1.1
 
  - Fixed icon  notification text
  - Included --hidden command line argument for silent start up
@@ -42,6 +50,6 @@ Download
 -------------
 [Download](https://github.com/intdel/PeataSound/raw/master/PeataSound/PeataSoundPortable.zip)
 
-Version: 0.1.1
+Version: 0.1.2
 
-Last Update: 1/3/2015
+Last Update: 1/4/2015
